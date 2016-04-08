@@ -1,0 +1,190 @@
+.principal{
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	height: 40px;
+	background-color: #3E9CF9;
+	z-index: 2000;
+}
+
+.separ{
+	background-color: #FFFFFF;
+}
+
+.salto{
+	position: relative;
+	top: 0px;
+	width: 100%;
+	height: 40px;
+}
+
+.fondo_acordeon{
+	height: 40px;
+	width: 40px;
+	background-image: url("../img/arbol.png?112");
+	background-position: -82px -40px;
+	background-repeat: no-repeat; 
+	background-size: auto;
+	margin-right: 0px;
+	margin-left: 0px;
+	cursor: pointer;
+}
+
+.fondo_acordeon_desplegar{
+	height: 40px;
+	width: 40px;
+	background-color: #0062C5;
+	background-image: url("../img/arbol.png?1254");
+	background-position: -82px -40px;
+	background-repeat: no-repeat; 
+	background-size: auto;
+	margin-right: 0px;
+	margin-left: 0px;
+	cursor: pointer;
+}
+
+.color_opciones{
+	color: #FFFFFF;
+	cursor: pointer;
+	height: 40px;
+	background-color: #3E9CF9;
+	font-size: 0.9em;
+}
+
+.color_opciones_secundario{
+	color: #FFFFFF;
+	cursor: pointer;
+	height: 80px;
+	background-color: #3E9CF9;
+	font-size: 1em;
+	border-top: 2px solid #7ABCFF;
+}
+
+.color_opciones_borde{
+	color: #FFFFFF;
+	cursor: pointer;
+	height: 80px;
+	background-color: #3E9CF9;
+	font-size: 1em;
+	border-top: 5px solid #7ABCFF;
+}
+
+.color_opciones:hover{
+	background-color: #056CD3;
+}
+
+.color_opciones_secundario:hover{
+	background-color: #056CD3;
+}
+
+.color_opciones_borde:hover{
+	background-color: #056CD3;
+}
+
+.img_banner{
+	position: relative;
+	width: 100%;
+	height: 750px;
+	background: url("../img/copia.jpg?254") center top/cover no-repeat #FFF;
+}
+
+.img_banner2{
+	position: relative;
+	width: 100%;
+	height: 750px;
+	background: url("../img/joseluis1.jpg?45ds") center top/cover no-repeat #FFF;
+}
+
+.texto_banner{
+	margin-top: 13%;
+	font-size: 1.3em;
+	color: #FFFFFF;
+}
+
+.fondo_linkedin{
+	margin-top: 7%;
+	font-size: 1.3em;
+	color: #FFFFFF;
+}
+
+.linkedin{
+	height: 35px;
+	width: 35px;
+	background-image: url("../img/redes.png?11");
+	background-position: -280px 0px;
+	background-repeat: no-repeat; 
+	background-size: auto;
+}
+
+.linkedin:hover{
+	background-image: url("../img/redes.png?11");
+	background-position: -280px -35px;
+}
+
+.fondo_facebook{
+	margin-top: 7%;
+	font-size: 1.3em;
+	color: #FFFFFF;
+}
+
+.facebook{
+	height: 35px;
+	width: 35px;
+	background-image: url("../img/redes.png?11");
+	background-position: -70px 0px;
+	background-repeat: no-repeat; 
+	background-size: auto;
+}
+
+.facebook:hover{
+	background-image: url("../img/redes.png?11");
+	background-position: -70px -35px;
+}
+
+.fondo_twitter{
+	margin-top: 7%;
+	font-size: 1.3em;
+	color: #FFFFFF;
+}
+
+.twitter{
+	height: 35px;
+	width: 35px;
+	background-image: url("../img/redes.png?11");
+	background-position: -35px 0px;
+	background-repeat: no-repeat; 
+	background-size: auto;
+}
+
+.twitter:hover{
+	background-image: url("../img/redes.png?11");
+	background-position: -35px -35px;
+}
+
+.fondo_email{
+	margin-top: 7%;
+	font-size: 1.3em;
+	color: #FFFFFF;
+}
+
+.email{
+	height: 35px;
+	width: 35px;
+	background-image: url("../img/redes.png?11");
+	background-position: -315px 0px;
+	background-repeat: no-repeat; 
+	background-size: auto;
+}
+
+.email:hover{
+	background-image: url("../img/redes.png?11");
+	background-position: -315px -35px;
+}
+
+.estilos_img{
+	border-radius: 2%;
+}
+
+.numerador{
+	display: none;
+}
